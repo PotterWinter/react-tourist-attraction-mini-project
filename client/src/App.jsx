@@ -1,6 +1,6 @@
 import "./App.css";
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { Home } from "./Page/Home";
+import { Homepage } from "./Page/Homepage";
 import React from 'react';
 // import { HeadSection } from "./Page/Head";
 
@@ -11,7 +11,7 @@ function App() {
     {/* <HeadSection /> */}
       <Router>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Homepage />} />
         </Routes>
       </Router>
     </>

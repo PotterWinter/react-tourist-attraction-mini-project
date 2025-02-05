@@ -1,6 +1,6 @@
 # Tourist Attraction Mini Project
 
-![TOURIST](client/src/img/screenshot.png)
+<img src="client/src/img/screenshot.png" alt="homepage tourist">
 
 Trip Finder is a React-based application designed to help users explore exciting travel destinations with ease. Simply enter a search keyword, and the app will instantly display a curated list of trips that match your interests. Each trip includes detailed descriptions, stunning images, and a shareable link for effortless trip planning.
 
@@ -14,7 +14,10 @@ Trip Finder is a React-based application designed to help users explore exciting
 
 🌟 Start planning your next adventure with Trip Finder today! 🚀
 
-![TOURIST](client/src/img/screenshot-mobile.png)
+<p align="center" >
+<img src="client/src/img/screenshot-mobile.png" style="width: 50%;" alt="mobile tourist">
+</p>
+
 
 ## Installation
 

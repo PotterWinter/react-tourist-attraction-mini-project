@@ -14,7 +14,7 @@ Trip Finder is a React-based application designed to help users explore exciting
 
 🌟 Start planning your next adventure with Trip Finder today! 🚀
 
-<p align="center" >
+<p align="start" >
 <img src="client/src/img/screenshot-mobile.png" style="width: 50%;" alt="mobile tourist">
 </p>
 
